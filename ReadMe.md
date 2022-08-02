@@ -22,7 +22,7 @@
 
 #### 火焰
 
-![Fire2](D:\2022\Github\UnityShaderLearning\Src\Jpg\Fire2.png)
+
 
 #### 顶点偏移
 
