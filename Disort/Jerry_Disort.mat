@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Jerry_Disort_3
+  m_Shader: {fileID: 4800000, guid: d17bc5af0aa379145b4ca8d560a255df, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 7040748e1c49b9648aeeefef41c8a3d5, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NoiseTex:
+        m_Texture: {fileID: 2800000, guid: a0d95bce430db6440abcfea05557ceff, type: 3}
+        m_Scale: {x: 10, y: 10}
+        m_Offset: {x: 0, y: 0}
+    - _RampTex:
+        m_Texture: {fileID: 2800000, guid: 9d045cd58468fa9498f0cc1e99438ead, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Animate: 0
+    - _Clip: 0.453
+    - _DesortEdge: 1.38
+    - _DisortEdge: 0.536
+    - _FireSpeed: 0.1
+    - _GradientMode: 2
+    - _GradientPower: 3.53
+    - _Intensity: 40
+    - _ModelHeight: 2.7674124
+    - _noiseIntensity: 0.245
+    m_Colors:
+    - _MainColor: {r: 1, g: 0.55562365, b: 0.2980392, a: 1}
