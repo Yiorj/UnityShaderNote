@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Terrain_Fog
+  m_Shader: {fileID: 4800000, guid: 60e05e527161e5c4398a73da5ba57643, type: 3}
+  m_ShaderKeywords: _DISTANCEFOG_ON _HEIGHTFOG_ON _SUNEFFECT_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _DistanceFog: 1
+    - _Fog_End: 392.3
+    - _Fog_Level: 163
+    - _Fog_Start: 68.69
+    - _HeightFog: 1
+    - _SunEffect: 1
+    - _SunRadius: 0.95
+    m_Colors:
+    - _FogColor: {r: 0.5712887, g: 0.61204714, b: 0.9245283, a: 1}
+    - _SunColor: {r: 1, g: 0.86274517, b: 0.8745099, a: 1}
